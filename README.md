@@ -46,13 +46,7 @@
 
 ---
 
-## 📸 Screenshots
 
-| Hero Section | Experience Section |
-|--------------|-------------------|
-| ![Hero](./src/assets/ngr.png) | ![Experience](./src/assets/projects/project-1.webp) |
-
----
 
 ## 📦 Local Setup
 
