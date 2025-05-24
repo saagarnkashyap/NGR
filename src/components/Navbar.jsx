@@ -31,7 +31,7 @@ const Navbar = () => {
         {/* Name / Logo */}
         <a href="#" className="text-lg font-bold uppercase text-white">
           <span className="bg-gradient-to-r from-purple-400 to-pink-300 bg-clip-text text-transparent">
-            Nagaraja Gundurao
+            Nagaraj Gundurao
           </span>
         </a>
 
