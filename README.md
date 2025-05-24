@@ -4,7 +4,7 @@ A modern, responsive portfolio website built with **React**, **Vite**, **Tailwin
 
 ## 🌐 Live Demo
 
-👉 [View Portfolio](https://ngr.vercel.app)
+👉 [View Portfolio](https://nagrao.vercel.app/)
 
 ## 📸 Screenshots
 
