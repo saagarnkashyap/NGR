@@ -50,12 +50,12 @@ export const EXPERIENCES = [
 export const EDUCATION = [
   {
     degree: "Masters in Operations and Manufacturing Management",
-    institution: "BITS, Pilani (2012 – 2014)",
+    institution: "BITS, Pilani",
     description: "Focused on advanced SCM systems and lean manufacturing strategies.",
   },
   {
     degree: "Bachelors in Industrial Engineering & Management",
-    institution: "BMS College of Engineering, Bangalore (1992 – 1996)",
+    institution: "BMS College of Engineering, Bangalore",
     description: "Graduated with distinction, strong emphasis on process optimization and systems thinking.",
   },
 ];
