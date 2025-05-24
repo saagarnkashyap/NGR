@@ -14,9 +14,6 @@
 <br/>
 
 <div align="center">
-  <a href="https://ngr.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/saagarnkashyap/NGR/main/src/assets/ngr.png" alt="Portfolio Preview" width="80%" />
-  </a>
   <p>🔗 <a href="https://ngr.vercel.app" target="_blank">Visit Live Site</a></p>
 </div>
 
