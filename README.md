@@ -55,3 +55,9 @@ git clone https://github.com/saagarnkashyap/NGR.git
 cd NGR
 npm install
 npm run dev
+```
+
+
+## Contact Me
+Email: saagarcourses@gmail.com
+LinkedIn: .com/in/saagar-n-kashyap-7231ab206/ 
