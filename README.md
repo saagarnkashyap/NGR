@@ -1,43 +1,66 @@
-# NGR – Personal Portfolio of Nagaraja Gundurao
+<h1 align="center">🌐 NGR – Personal Portfolio of Nagaraja Gundurao</h1>
 
-A modern, responsive portfolio website built with **React**, **Vite**, **Tailwind CSS**, and **GSAP** — designed to showcase the experience, education, and leadership accomplishments of **Nagaraja Gundurao**, a global operations executive with 25+ years in the industry.
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20With-React-blue?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Vite-Fast%20Build-yellow?style=flat&logo=vite" />
+  <img src="https://img.shields.io/badge/TailwindCSS-Styled-green?style=flat&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Deployed%20On-Vercel-black?style=flat&logo=vercel" />
+</p>
 
-## 🌐 Live Demo
+<p align="center">
+  A clean, animated portfolio built with 💻 <strong>React + Vite</strong> and styled using ✨ <strong>TailwindCSS</strong>, with scroll-triggered animations powered by ⚡ <strong>GSAP</strong>.
+</p>
 
-👉 [View Portfolio](https://nagrao.vercel.app/)
+<br/>
 
-## 📸 Screenshots
+<div align="center">
+  <a href="https://ngr.vercel.app" target="_blank">
+    <img src="https://raw.githubusercontent.com/saagarnkashyap/NGR/main/src/assets/ngr.png" alt="Portfolio Preview" width="80%" />
+  </a>
+  <p>🔗 <a href="https://ngr.vercel.app" target="_blank">Visit Live Site</a></p>
+</div>
 
-<!-- Add if needed, example: -->
-<!-- ![Hero section](./screenshots/hero.png) -->
-<!-- ![Experience section](./screenshots/experience.png) -->
+---
 
 ## 🚀 Features
 
-- Responsive layout across mobile, tablet, and desktop
-- Smooth GSAP scroll animations for all sections
-- Sections:
-  - Hero with resume download
-  - About
-  - Experience (clean fade-in)
+- 📱 **Responsive** across all devices
+- 💡 Smooth **scroll animations** with GSAP
+- 📂 Modular components for easy updates
+- 📝 Downloadable resume (PDF)
+- 💼 Cleanly structured sections:
+  - Hero + About
+  - Experience Timeline
   - Education
-  - Projects
-  - Contact with LinkedIn, Email, Phone
-- Fully deployed on [Vercel](https://vercel.com)
+  - Projects Grid
+  - Contact Info + Links
+
+---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, Vite
-- **Styling:** Tailwind CSS
-- **Animations:** GSAP + ScrollTrigger
-- **Icons:** React Icons
-- **Deployment:** Vercel
+| Category     | Tech Used                          |
+|--------------|------------------------------------|
+| Framework    | `React`, `Vite`                    |
+| Styling      | `Tailwind CSS`, `Backdrops`, `Gradients` |
+| Animation    | `GSAP`, `ScrollTrigger`            |
+| Icons        | `React Icons`                      |
+| Deployment   | `Vercel`                           |
 
-## 📁 Folder Structure
+---
 
-**src/**
-├── **assets/** # Images & logos
-├── **components/** # React UI components
-├── **constants/** # Experience, education, etc.
-├── **App.jsx** # App layout
-└── **main.jsx** # App entry point
+## 📸 Screenshots
+
+| Hero Section | Experience Section |
+|--------------|-------------------|
+| ![Hero](./src/assets/ngr.png) | ![Experience](./src/assets/projects/project-1.webp) |
+
+---
+
+## 📦 Local Setup
+
+```bash
+git clone https://github.com/saagarnkashyap/NGR.git
+cd NGR
+npm install
+npm run dev
