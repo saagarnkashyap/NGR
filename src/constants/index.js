@@ -8,7 +8,7 @@ export const Navigation_Links = [
 
 // Hero Profile
 export const PROFILE = {
-  name: "Nagaraja Gundurao",
+  name: "Nagaraj Gundurao",
   title: "Director – Product Operations Engineering, Global Ops",
   subheading:
     "Accomplished professional with 25+ years of experience, targeting impactful leadership roles in operations and manufacturing excellence across global supply chains.",
