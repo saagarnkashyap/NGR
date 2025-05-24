@@ -1,4 +1,4 @@
-<h1 align="center">🌐 NGR – Personal Portfolio of Nagaraja Gundurao</h1>
+<h1 align="center">NGR – Personal Portfolio of Nagaraj Gundurao</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20With-React-blue?style=flat&logo=react" />
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  A clean, animated portfolio built with 💻 <strong>React + Vite</strong> and styled using ✨ <strong>TailwindCSS</strong>, with scroll-triggered animations powered by ⚡ <strong>GSAP</strong>.
+  A clean, animated portfolio built with <strong>React + Vite</strong> and styled using <strong>TailwindCSS</strong>, with scroll-triggered animations powered by <strong>GSAP</strong>.
 </p>
 
 <br/>
@@ -19,13 +19,13 @@
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📱 **Responsive** across all devices
-- 💡 Smooth **scroll animations** with GSAP
-- 📂 Modular components for easy updates
-- 📝 Downloadable resume (PDF)
-- 💼 Cleanly structured sections:
+- **Responsive** across all devices
+- Smooth **scroll animations** with GSAP
+- Modular components for easy updates
+- Downloadable resume (PDF)
+- Cleanly structured sections:
   - Hero + About
   - Experience Timeline
   - Education
@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category     | Tech Used                          |
 |--------------|------------------------------------|
@@ -48,7 +48,7 @@
 
 
 
-## 📦 Local Setup
+## Local Setup
 
 ```bash
 git clone https://github.com/saagarnkashyap/NGR.git
