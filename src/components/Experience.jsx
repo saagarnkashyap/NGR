@@ -45,7 +45,7 @@ const Experience = () => {
     {
       year: "1996–2006",
       role: "Manufacturing & Production Leadership Roles",
-      company: "Abante, Solectron, Milestone, Sahney",
+      company: "Corry Micronics, Solectron, Milestone, SPR Auto",
       description: [
         "Held key roles in manufacturing and production",
         "Built expertise in process control, PPC, and team leadership",
