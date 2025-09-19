@@ -14,7 +14,7 @@
 <br/>
 
 <div align="center">
-  <p>🔗 <a href="https://nagrao.vercel.app/" target="_blank">Visit Live Site</a></p>
+  <p>🔗 <a href="http://nagarajg.vercel.app/" target="_blank">Visit Live Site</a></p>
 </div>
 
 ---
@@ -61,4 +61,4 @@ npm run dev
 ## Contact Me
 Email: saagarcourses@gmail.com
 
-LinkedIn : Saagar N Kashyap[linkedin.com/in/saagar-n-kashyap/](https://www.linkedin.com/in/saagar-n-kashyap-7231ab206/))
+LinkedIn : Saagar N Kashyap (https://www.linkedin.com/in/saagar-n-kashyap-7231ab206/)
